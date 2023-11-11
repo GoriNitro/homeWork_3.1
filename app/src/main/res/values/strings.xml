@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homeWork_3.1</string>
+    <string name="email">Почта</string>
+    <string name="theme">Тема</string>
+    <string name="text">Текст</string>
+    <string name="send">Send</string>
+</resources>
